@@ -11,6 +11,11 @@ export default {
       colors: {
         background: "var(--background)",
         foreground: "var(--foreground)",
+        menta: "#add0cc",
+        blanquito: "#f2edf2",
+        ClaroMorado: "#512a6d",
+        OscuMorado: "#2c163d",
+        negro: "#09010c",
       },
       fontFamily: {
         ubuntu: ["ubuntu", "sans-serif"],
